@@ -85,22 +85,22 @@ nav ul li a:hover::after{
 #about{
   background-color: hwb(0 0% 100% / 0.907);
   color: rgb(141, 148, 152);
-  padding: 90px 0;
+  padding: 90px 0px;
 }
 
 .row{
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-wrap: wrap;
 }
 
 .col1{
-  flex-basis:20%;
+  flex-basis:30%;
   padding:0%;
 }
 
 .col2{
-  flex-basis:75%;
+  flex-basis:65%;
 }
 
 .title{
