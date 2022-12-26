@@ -85,7 +85,7 @@ nav ul li a:hover::after{
 #about{
   background-color: hwb(0 0% 100% / 0.907);
   color: rgb(141, 148, 152);
- padding: 90px;
+ padding: 90px 0px;
 }
 
 .row{
@@ -116,7 +116,7 @@ nav ul li a:hover::after{
 .topic{
   line-height: 32px;
   text-align: justify;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .topic span{
