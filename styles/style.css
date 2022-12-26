@@ -85,7 +85,7 @@ nav ul li a:hover::after{
 #about{
   background-color: hwb(0 0% 100% / 0.907);
   color: rgb(141, 148, 152);
-  padding: 90px 0;
+  padding: 90px 0px;
 }
 
 .row{
@@ -95,11 +95,11 @@ nav ul li a:hover::after{
 }
 
 .col1{
-  flex-basis:35%;
+  flex-basis:30%;
 }
 
 .col2{
-  flex-basis:60%;
+  flex-basis:65%;
 }
 
 .title{
@@ -110,7 +110,7 @@ nav ul li a:hover::after{
 
 .profile{
   border-radius: 15%;
-  width: 400px;
+  width: 300px;
 }
 
 .topic{
