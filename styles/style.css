@@ -95,11 +95,12 @@ nav ul li a:hover::after{
 }
 
 .col1{
-  flex-basis:35%;
+  flex-basis:20%;
+  padding:0%;
 }
 
 .col2{
-  flex-basis:60%;
+  flex-basis:75%;
 }
 
 .title{
@@ -110,7 +111,7 @@ nav ul li a:hover::after{
 
 .profile{
   border-radius: 15%;
-  width: 400px;
+  width: 300px;
 }
 
 .topic{
